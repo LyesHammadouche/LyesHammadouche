@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LyesHammadouche
 - 👀 I’m interested in mechanical engineering, art & design & object oriented programming.
-- 🌱 I’m currently learning mostly 3D softwares.
 - 💞️ I’m looking to collaborate on any interesting projects :)
 - 📫 How to reach me : through my website www.lyeshammadouche.com
 
